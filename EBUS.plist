@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://beidishop.oss-cn-shanghai.aliyuncs.com/EBUS/staff-app-logo.png</string>
+                   <string>https://beidishop.oss-cn-shanghai.aliyuncs.com/EBUS/staff-app-logo.png</string>
                </dict>
            </array>
            <key>metadata</key>
