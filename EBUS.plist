@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>https://beidishop.oss-cn-shanghai.aliyuncs.com/EBUS/io.dcloud.beidi.ios.EBus_0326104126.ipa</string>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>https://beidishop.oss-cn-shanghai.aliyuncs.com/EBUS/staff-app-logo.png</string>
+               </dict>
+           </array>
+           <key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>io.dcloud.beidi.ios.EBus</string>
+               <key>bundle-version</key>
+               <string>0.1.3</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>subtitle</key>
+               <string>重汽智能生活</string>
+               <key>title</key>
+               <string>重汽智能班车</string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>
